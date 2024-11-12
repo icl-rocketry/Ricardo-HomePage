@@ -8,7 +8,7 @@ This is the homepage for Ricardo Avionics Ecosystem (RAE). This is where you wil
 [OS Template](https://github.com/icl-rocketry/Ricardo-OS-Template) - Barebones firmware template - the firmware starting point for boards design for use in RAE.
 
 ## Libraries
-[iclr-hw]() - ICLR KiCAD library for 3rd party symbols and footprints.
+[iclr-hw](https://github.com/icl-rocketry/iclr-hw) - ICLR KiCAD library for 3rd party symbols and footprints.
 
 [libriccore](https://github.com/icl-rocketry/libriccore) - Ricardo core library - core firmware framework for all RAE boards.
 
