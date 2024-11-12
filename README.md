@@ -31,7 +31,7 @@ This is the homepage for Ricardo Avionics Ecosystem (RAE). This is where you wil
 
 [Stark](https://github.com/icl-rocketry/Ricardo-Stark) - Integrated engine controller unit for Thanos.
 
-[Buckaroo](https://github.com/icl-rocketry/Ricardo-Buckaroo) - High power buck converter
+[Buckaroo](https://github.com/icl-rocketry/Ricardo-Buckaroo) - High current buck converter.
 
 [WitcherSwitcher](https://github.com/icl-rocketry/Ricardo-WitcherSwitcher) - Power source switching board.
 
