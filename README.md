@@ -7,6 +7,14 @@ This is the homepage for Ricardo Avionics Ecosystem (RAE). This is where you wil
 
 [OS Template](https://github.com/icl-rocketry/Ricardo-OS-Template) - Barebones firmware template - the firmware starting point for boards design for use in RAE.
 
+## Middleware
+[Backend](https://github.com/icl-rocketry/Ricardo-Backend) - Python based backend for command and data handling in the ricardo avionics ecosystem.
+[Backend Apps](https://github.com/icl-rocketry/Ricardo-Backend-Apps) - Various useful utilities, scripts and applications for use with the Backend.
+[Backend Stack](https://github.com/icl-rocketry/Ricardo-Backend-Stack) - Docker stack to conveniently deploy a full Ricardo Backend Stack(Backend, Command Server, Grafana) for use in operations.
+[TaskHandler UI](https://github.com/icl-rocketry/TaskHandler) - UI Task handler to manage data task request handler tasks.
+[Command Server](https://github.com/icl-rocketry/Ricardo-CommandServer) - Command server to send commands to the ricardo backend.
+[Relay](https://github.com/icl-rocketry/Ricardo-InfluxRelay) - 
+
 ## Libraries
 [iclr-hw](https://github.com/icl-rocketry/iclr-hw) - ICLR KiCAD library for 3rd party symbols and footprints.
 
