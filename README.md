@@ -55,6 +55,8 @@ This is the homepage for Ricardo Avionics Ecosystem (RAE). This is where you wil
 
 [Geddan](https://github.com/icl-rocketry/Ricardo-Canardboard) - Canard module control board - integrated IMU and servo output.
 
+[Greg](https://github.com/icl-rocketry/Ricardo-Greg) - Electronic pressure regulator (E-reg) hardware and firmware.
+
 
 ## Forks
 
