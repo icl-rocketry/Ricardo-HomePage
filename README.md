@@ -51,7 +51,7 @@ This is the homepage for Ricardo Avionics Ecosystem (RAE). This is where you wil
 
 [Can Repeater](https://github.com/icl-rocketry/Ricardo-CANRepeater) - CAN Bus repeater, with isolation and arbitration.
 
-[BlackBox](https://github.com/icl-rocketry/Ricardo-BlackBox) - Flight data recorder.
+[Jolly Roger](https://github.com/icl-rocketry/Ricardo-JollyRoger) - Flight data recorder.
 
 [Geddan](https://github.com/icl-rocketry/Ricardo-Canardboard) - Canard module control board - integrated IMU and servo output.
 
