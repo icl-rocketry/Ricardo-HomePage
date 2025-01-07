@@ -18,7 +18,7 @@ This is the homepage for Ricardo Avionics Ecosystem (RAE). This is where you wil
 
 [Command Server](https://github.com/icl-rocketry/Ricardo-CommandServer) - Command server to send commands to the ricardo backend.
 
-[Relay](https://github.com/icl-rocketry/Ricardo-InfluxRelay) - 
+[Relay](https://github.com/icl-rocketry/Ricardo-InfluxRelay) - Relay for many-to-many forwarding between backends and frontends.
 
 
 ## Libraries
