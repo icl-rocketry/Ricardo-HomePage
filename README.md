@@ -20,6 +20,8 @@ This is the homepage for Ricardo Avionics Ecosystem (RAE). This is where you wil
 
 [Relay](https://github.com/icl-rocketry/Ricardo-InfluxRelay) - Relay for many-to-many forwarding between backends and frontends.
 
+## Docs
+[System Overview](https://github.com/icl-rocketry/Ricardo-SystemOverview) - A repo which includes system overview diagrams for all of the team's deployments of the RAE system.
 
 ## Libraries
 [iclr-hw](https://github.com/icl-rocketry/iclr-hw) - ICLR KiCAD library for 3rd party symbols and footprints.
