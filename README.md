@@ -59,7 +59,7 @@ This is the homepage for Ricardo Avionics Ecosystem (RAE). This is where you wil
 
 [Greg](https://github.com/icl-rocketry/Ricardo-Greg) - Electronic pressure regulator (E-reg) hardware and firmware.
 
-[Crosshair](https://github.com/icl-rocketry/Ricardo-Crosshair) - Reefing glass fibre line cutter (recovery) board.
+[Crosshair](https://github.com/icl-rocketry/Ricardo-Crosshair) - Reefing plastic fibre line cutter (recovery) board.
 
 
 ## Forks
