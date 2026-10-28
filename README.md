@@ -23,6 +23,9 @@ This is the homepage for Ricardo Avionics Ecosystem (RAE). This is where you wil
 ## Docs
 [System Overview](https://github.com/icl-rocketry/Ricardo-SystemOverview) - A repo which includes system overview diagrams for all of the team's deployments of the RAE system.
 
+## Configs
+[Rocket Configs](https://github.com/icl-rocketry/Ricardo-RocketConfigs) - Repo for storing and tracking rocket-specific configurations for flying on Pickle Rick.
+
 ## Libraries
 [iclr-hw](https://github.com/icl-rocketry/iclr-hw) - ICLR KiCAD library for 3rd party symbols and footprints.
 
